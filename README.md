@@ -1,3 +1,9 @@
+# Markdown project made with React and Typescript
+## A project focusing on markdowns, categories, tags, filtering and more functionalities
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
