@@ -1,5 +1,5 @@
 # Markdown project made with React and Typescript
-## A project focusing on markdowns, categories, tags, filtering and more functionalities
+### A project focusing on markdowns, categories, tags, filtering and more functionalities
 
 
 
